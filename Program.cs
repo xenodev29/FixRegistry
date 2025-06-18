@@ -9,7 +9,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string protocolName = "lostsaga";
+        string protocolName = "gameproject";
         string gameExecutableName = "autoupgrade.exe";
 
         try
