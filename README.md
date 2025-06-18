@@ -37,7 +37,7 @@ Alternatively, you can use Visual Studio with the ".NET desktop development" wor
 
 First, clone this repository to your local machine:
 ```sh
-git clone [https://github.com/xenodev29/fixregistry.git](https://github.com/xenodev29/fixregistry.git)
+git clone https://github.com/xenodev29/fixregistry.git
 ```
 Then, choose one of the following methods to build it:
 
@@ -101,7 +101,7 @@ Sebagai alternatif, Anda bisa menggunakan Visual Studio yang sudah terinstal den
 #### Langkah 2: Membangun Aplikasi
 Pertama, salin (clone) repositori ini ke komputer Anda:
 ```sh
-git clone [https://github.com/xenodev29/fixregistry.git](https://github.com/xenodev29/fixregistry.git)
+git clone https://github.com/xenodev29/fixregistry.git
 ```
 Selanjutnya, pilih salah satu metode berikut untuk membangunnya:
 
